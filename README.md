@@ -21,10 +21,10 @@ After completing the first part of the [Python Essentials Course](https://github
 
 ## 📁 Projects
 
-| Project | Description |
-|--------|-------------|
-|[entity-parsing-challenge.py](./entity-parsing-challenge.py)| A practical text parsing tool using the `re` module (Regular Expression) to extract structured information like emails, phone numbers, and dates from large text blocks.|
-|_More Coming Soon_| Plans include web scraping, `pandas` and `numpy`, API integrations, automation, and more. |
+| Project | Directory | Description |
+|---------|-----------|-------------|
+|[**entity-parsing-challenge.py**](./string-processing/entity-parsing-challenge.py)| [**./string-processing**](./string-processing) | A practical text parsing tool using the `re` module (Regular Expression) to extract structured information like emails, phone numbers, and dates from large text blocks.|
+|_More Coming Soon_| | Plans include web scraping, `pandas` and `numpy`, API integrations, automation, and more. |
 
 ---
 
@@ -50,4 +50,4 @@ This project is licensed under the [MIT License](LICENSE), allowing open use and
 ## 🙋‍♂️ Get in Touch
 
 I gladly welcome any suggestions, feedback, or collaboration.
-You can reach me via [LinkedIn](https://www.linkedin.com/in/jordan-rodger3008/) or [email](mailto:j.rodger3008@outlook.com).
+Please don't hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jordan-rodger3008/) or [email](mailto:j.rodger3008@outlook.com).
